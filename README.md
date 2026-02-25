@@ -19,10 +19,9 @@ CampusInvolve is a UW–Madison web app that recommends student organizations ba
 ## Getting Started
 
 ### 1) Install
-```bash
-npm install
+`npm install`
 
-### 2) Environment variables
+## 2) Environment variables
 - Create .env.local in project root:
 NEXT_PUBLIC_SUPABASE_URL=YOUR_SUPABASE_URL
 NEXT_PUBLIC_SUPABASE_ANON_KEY=YOUR_SUPABASE_ANON_KEY
