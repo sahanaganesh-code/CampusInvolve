@@ -1,3 +1,35 @@
+# CampusInvolve
+
+CampusInvolve is a UW–Madison web app that recommends student organizations based on your majors and interests, then helps you curate and lock favorites to generate a realistic club plan that fits your weekly time budget.
+
+## Features
+- **UW–Madison data ingest**: pulls 1,000+ organizations from the WIN directory API and stores normalized club records in Supabase (Postgres).
+- **Multi-major recommendations**: choose up to 3 majors + interests to get ranked club matches with “why this matched” explanations.
+- **Curation controls**: filter results, select clubs to consider, and **lock** must-include clubs.
+- **Constraint-based planning (IE)**: generates a feasible club set under constraints (weekly hours, max clubs, locked clubs).
+- **Auth + protected routes**: Supabase Auth magic-link sign-in and redirect-to-login protection.
+- **Modern UI**: responsive red/white theme with fast browsing and quick actions.
+
+## Tech Stack
+- **Frontend**: Next.js (App Router), TypeScript  
+- **Backend**: Next.js Route Handlers (`/api/*`)  
+- **Database/Auth**: Supabase (Postgres + Auth)  
+- **Modeling**: explainable scoring + constraint-based selection  
+
+## Getting Started
+
+### 1) Install
+```bash
+npm install
+
+### 2) Environment variables
+- Create .env.local in project root:
+NEXT_PUBLIC_SUPABASE_URL=YOUR_SUPABASE_URL
+NEXT_PUBLIC_SUPABASE_ANON_KEY=YOUR_SUPABASE_ANON_KEY
+SUPABASE_SERVICE_ROLE_KEY=YOUR_SUPABASE_SERVICE_ROLE_KEY
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
