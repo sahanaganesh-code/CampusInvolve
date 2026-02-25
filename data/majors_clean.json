@@ -1,0 +1,1091 @@
+[
+  {
+    "name": "Agricultural Business Management",
+    "keywords": [
+      "agricultural",
+      "business",
+      "management",
+      "als"
+    ]
+  },
+  {
+    "name": "Agricultural and Applied Economics",
+    "keywords": [
+      "agricultural",
+      "applied",
+      "economics",
+      "econ",
+      "als"
+    ]
+  },
+  {
+    "name": "Agronomy",
+    "keywords": [
+      "agronomy",
+      "als"
+    ]
+  },
+  {
+    "name": "Animal and Veterinary Biosciences",
+    "keywords": [
+      "animal",
+      "veterinary",
+      "biosciences",
+      "als"
+    ]
+  },
+  {
+    "name": "Biochemistry",
+    "keywords": [
+      "biochemistry",
+      "als"
+    ]
+  },
+  {
+    "name": "Biological Systems Engineering",
+    "keywords": [
+      "biological",
+      "systems",
+      "engineering",
+      "als"
+    ]
+  },
+  {
+    "name": "Biology",
+    "keywords": [
+      "biology",
+      "als"
+    ]
+  },
+  {
+    "name": "Community and Environmental Sociology",
+    "keywords": [
+      "community",
+      "environmental",
+      "sociology",
+      "als"
+    ]
+  },
+  {
+    "name": "Dairy Science",
+    "keywords": [
+      "dairy",
+      "als"
+    ]
+  },
+  {
+    "name": "Dairy and Food Animal Management",
+    "keywords": [
+      "dairy",
+      "food",
+      "animal",
+      "management",
+      "als"
+    ]
+  },
+  {
+    "name": "Entomology",
+    "keywords": [
+      "entomology",
+      "als"
+    ]
+  },
+  {
+    "name": "Food Science",
+    "keywords": [
+      "food",
+      "als"
+    ]
+  },
+  {
+    "name": "Forest Science",
+    "keywords": [
+      "forest",
+      "als"
+    ]
+  },
+  {
+    "name": "Genetics and Genomics",
+    "keywords": [
+      "genetics",
+      "genomics",
+      "als"
+    ]
+  },
+  {
+    "name": "Global Health",
+    "keywords": [
+      "global",
+      "health",
+      "als"
+    ]
+  },
+  {
+    "name": "Horticulture",
+    "keywords": [
+      "horticulture",
+      "als"
+    ]
+  },
+  {
+    "name": "Individual Major",
+    "keywords": [
+      "individual",
+      "als"
+    ]
+  },
+  {
+    "name": "Life Sciences Communication",
+    "keywords": [
+      "life",
+      "communication",
+      "als"
+    ]
+  },
+  {
+    "name": "Microbiology",
+    "keywords": [
+      "microbiology",
+      "als"
+    ]
+  },
+  {
+    "name": "Nutritional Sciences",
+    "keywords": [
+      "nutritional",
+      "als"
+    ]
+  },
+  {
+    "name": "Plant Pathology",
+    "keywords": [
+      "plant",
+      "pathology",
+      "als"
+    ]
+  },
+  {
+    "name": "Soil Science",
+    "keywords": [
+      "soil",
+      "als"
+    ]
+  },
+  {
+    "name": "Wildlife Ecology",
+    "keywords": [
+      "wildlife",
+      "ecology",
+      "als"
+    ]
+  },
+  {
+    "name": "Business Administration-Human Resources",
+    "keywords": [
+      "business",
+      "administration",
+      "human",
+      "resources",
+      "bus"
+    ]
+  },
+  {
+    "name": "Business Administration-Management",
+    "keywords": [
+      "business",
+      "administration",
+      "management",
+      "bus"
+    ]
+  },
+  {
+    "name": "Business Administration-Marketing",
+    "keywords": [
+      "business",
+      "administration",
+      "marketing",
+      "bus"
+    ]
+  },
+  {
+    "name": "Business: Accounting",
+    "keywords": [
+      "business",
+      "accounting",
+      "bus"
+    ]
+  },
+  {
+    "name": "Business: Actuarial Science",
+    "keywords": [
+      "business",
+      "actuarial",
+      "bus"
+    ]
+  },
+  {
+    "name": "Business: Entrepreneurship",
+    "keywords": [
+      "business",
+      "entrepreneurship",
+      "bus"
+    ]
+  },
+  {
+    "name": "Business: Finance, Investment and Banking",
+    "keywords": [
+      "business",
+      "finance",
+      "investment",
+      "banking",
+      "bus"
+    ]
+  },
+  {
+    "name": "Business: Human Resource Management",
+    "keywords": [
+      "business",
+      "human",
+      "resource",
+      "management",
+      "bus"
+    ]
+  },
+  {
+    "name": "Business: Information Systems",
+    "keywords": [
+      "business",
+      "information",
+      "systems",
+      "bus"
+    ]
+  },
+  {
+    "name": "Business: Management",
+    "keywords": [
+      "business",
+      "management",
+      "bus"
+    ]
+  },
+  {
+    "name": "Business: Management and Human Resources",
+    "keywords": [
+      "business",
+      "management",
+      "human",
+      "resources",
+      "bus"
+    ]
+  },
+  {
+    "name": "Business: Marketing",
+    "keywords": [
+      "business",
+      "marketing",
+      "bus"
+    ]
+  },
+  {
+    "name": "Business: Operations and Technology Management",
+    "keywords": [
+      "business",
+      "operations",
+      "technology",
+      "management",
+      "bus"
+    ]
+  },
+  {
+    "name": "Business: Real Estate and Urban Land Economics",
+    "keywords": [
+      "business",
+      "real",
+      "estate",
+      "urban",
+      "land",
+      "economics",
+      "econ",
+      "bus"
+    ]
+  },
+  {
+    "name": "Business: Risk Management and Insurance",
+    "keywords": [
+      "business",
+      "risk",
+      "management",
+      "insurance",
+      "bus"
+    ]
+  },
+  {
+    "name": "Business: Supply Chain Management",
+    "keywords": [
+      "business",
+      "supply",
+      "chain",
+      "management",
+      "bus"
+    ]
+  },
+  {
+    "name": "Art",
+    "keywords": [
+      "art",
+      "edu"
+    ]
+  },
+  {
+    "name": "Art Education",
+    "keywords": [
+      "art",
+      "education",
+      "edu"
+    ]
+  },
+  {
+    "name": "Dance",
+    "keywords": [
+      "dance",
+      "edu"
+    ]
+  },
+  {
+    "name": "Education Studies",
+    "keywords": [
+      "education",
+      "edu"
+    ]
+  },
+  {
+    "name": "Elementary Education",
+    "keywords": [
+      "elementary",
+      "education",
+      "edu"
+    ]
+  },
+  {
+    "name": "Elementary Education and Special Education",
+    "keywords": [
+      "elementary",
+      "education",
+      "special",
+      "edu"
+    ]
+  },
+  {
+    "name": "Health Promotion and Health Equity",
+    "keywords": [
+      "health",
+      "promotion",
+      "equity",
+      "edu"
+    ]
+  },
+  {
+    "name": "Kinesiology",
+    "keywords": [
+      "kinesiology",
+      "edu"
+    ]
+  },
+  {
+    "name": "Physical Education",
+    "keywords": [
+      "physical",
+      "education",
+      "edu"
+    ]
+  },
+  {
+    "name": "Rehabilitation Psychology",
+    "keywords": [
+      "rehabilitation",
+      "psychology",
+      "edu"
+    ]
+  },
+  {
+    "name": "Special Education",
+    "keywords": [
+      "special",
+      "education",
+      "edu"
+    ]
+  },
+  {
+    "name": "Theatre and Drama",
+    "keywords": [
+      "theatre",
+      "drama",
+      "edu"
+    ]
+  },
+  {
+    "name": "Biomedical Engineering",
+    "keywords": [
+      "biomedical",
+      "engineering",
+      "egr"
+    ]
+  },
+  {
+    "name": "Chemical Engineering",
+    "keywords": [
+      "chemical",
+      "engineering",
+      "egr"
+    ]
+  },
+  {
+    "name": "Civil Engineering",
+    "keywords": [
+      "civil",
+      "engineering",
+      "egr"
+    ]
+  },
+  {
+    "name": "Computer Engineering",
+    "keywords": [
+      "computer",
+      "engineering",
+      "cs",
+      "egr"
+    ]
+  },
+  {
+    "name": "Electrical Engineering",
+    "keywords": [
+      "electrical",
+      "engineering",
+      "ee",
+      "egr"
+    ]
+  },
+  {
+    "name": "Engineering Mechanics",
+    "keywords": [
+      "engineering",
+      "mechanics",
+      "egr"
+    ]
+  },
+  {
+    "name": "Engineering Physics",
+    "keywords": [
+      "engineering",
+      "physics",
+      "egr"
+    ]
+  },
+  {
+    "name": "Environmental Engineering",
+    "keywords": [
+      "environmental",
+      "engineering",
+      "egr"
+    ]
+  },
+  {
+    "name": "Geological Engineering",
+    "keywords": [
+      "geological",
+      "engineering",
+      "egr"
+    ]
+  },
+  {
+    "name": "Industrial Engineering",
+    "keywords": [
+      "industrial",
+      "engineering",
+      "ie",
+      "egr"
+    ]
+  },
+  {
+    "name": "Materials Science and Engineering",
+    "keywords": [
+      "materials",
+      "engineering",
+      "egr"
+    ]
+  },
+  {
+    "name": "Mechanical Engineering",
+    "keywords": [
+      "mechanical",
+      "engineering",
+      "me",
+      "egr"
+    ]
+  },
+  {
+    "name": "Nuclear Engineering",
+    "keywords": [
+      "nuclear",
+      "engineering",
+      "egr"
+    ]
+  },
+  {
+    "name": "Community and Organizational Development",
+    "keywords": [
+      "community",
+      "organizational",
+      "development",
+      "hec"
+    ]
+  },
+  {
+    "name": "Consumer Behavior and Marketplace Studies",
+    "keywords": [
+      "consumer",
+      "behavior",
+      "marketplace",
+      "hec"
+    ]
+  },
+  {
+    "name": "Design, Innovation, and Society",
+    "keywords": [
+      "design",
+      "innovation",
+      "society",
+      "hec"
+    ]
+  },
+  {
+    "name": "Human Development and Family Systems",
+    "keywords": [
+      "human",
+      "development",
+      "family",
+      "systems",
+      "hec"
+    ]
+  },
+  {
+    "name": "Interior Architecture",
+    "keywords": [
+      "interior",
+      "architecture",
+      "hec"
+    ]
+  },
+  {
+    "name": "Personal Finance",
+    "keywords": [
+      "personal",
+      "finance",
+      "hec"
+    ]
+  },
+  {
+    "name": "Textiles and Fashion Design",
+    "keywords": [
+      "textiles",
+      "fashion",
+      "design",
+      "hec"
+    ]
+  },
+  {
+    "name": "African American Studies",
+    "keywords": [
+      "african",
+      "american",
+      "l&s"
+    ]
+  },
+  {
+    "name": "African Cultural Studies",
+    "keywords": [
+      "african",
+      "cultural",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Anthropology",
+    "keywords": [
+      "anthropology",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Applied Mathematics, Engineering and Physics",
+    "keywords": [
+      "applied",
+      "mathematics",
+      "engineering",
+      "physics",
+      "math",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Art History",
+    "keywords": [
+      "art",
+      "history",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Asian Languages and Cultures",
+    "keywords": [
+      "asian",
+      "languages",
+      "cultures",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Astronomy - Physics",
+    "keywords": [
+      "astronomy",
+      "physics",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Atmospheric and Oceanic Sciences",
+    "keywords": [
+      "atmospheric",
+      "oceanic",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Botany",
+    "keywords": [
+      "botany",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Cartography and Geographic Information Systems",
+    "keywords": [
+      "cartography",
+      "geographic",
+      "information",
+      "systems",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Chemistry",
+    "keywords": [
+      "chemistry",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Chicana/o and Latina/o Studies",
+    "keywords": [
+      "chicana",
+      "latina",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Chinese",
+    "keywords": [
+      "chinese",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Classical Humanities",
+    "keywords": [
+      "classical",
+      "humanities",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Communication Arts",
+    "keywords": [
+      "communication",
+      "arts",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Communication Sciences and Disorders",
+    "keywords": [
+      "communication",
+      "disorders",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Computer Sciences",
+    "keywords": [
+      "computer",
+      "cs",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Conservation Biology",
+    "keywords": [
+      "conservation",
+      "biology",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Data Science",
+    "keywords": [
+      "data",
+      "ds",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Economics",
+    "keywords": [
+      "economics",
+      "econ",
+      "l&s"
+    ]
+  },
+  {
+    "name": "English",
+    "keywords": [
+      "english",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Environmental Sciences",
+    "keywords": [
+      "environmental",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Environmental Studies",
+    "keywords": [
+      "environmental",
+      "l&s"
+    ]
+  },
+  {
+    "name": "French",
+    "keywords": [
+      "french",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Gender and Women's Studies",
+    "keywords": [
+      "gender",
+      "women",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Geography",
+    "keywords": [
+      "geography",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Geology and Geophysics",
+    "keywords": [
+      "geology",
+      "geophysics",
+      "l&s"
+    ]
+  },
+  {
+    "name": "German",
+    "keywords": [
+      "german",
+      "l&s"
+    ]
+  },
+  {
+    "name": "History",
+    "keywords": [
+      "history",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Information Science",
+    "keywords": [
+      "information",
+      "l&s"
+    ]
+  },
+  {
+    "name": "International Studies",
+    "keywords": [
+      "international",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Italian",
+    "keywords": [
+      "italian",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Japanese",
+    "keywords": [
+      "japanese",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Jewish Studies",
+    "keywords": [
+      "jewish",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Journalism",
+    "keywords": [
+      "journalism",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Landscape Architecture",
+    "keywords": [
+      "landscape",
+      "architecture",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Landscape and Urban Studies",
+    "keywords": [
+      "landscape",
+      "urban",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Latin American, Caribbean and Iberian Studies",
+    "keywords": [
+      "latin",
+      "american",
+      "caribbean",
+      "iberian",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Legal Studies",
+    "keywords": [
+      "legal",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Linguistics",
+    "keywords": [
+      "linguistics",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Mathematics",
+    "keywords": [
+      "mathematics",
+      "math",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Molecular and Cell Biology",
+    "keywords": [
+      "molecular",
+      "cell",
+      "biology",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Music",
+    "keywords": [
+      "music",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Music: Education",
+    "keywords": [
+      "music",
+      "education",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Music: Performance",
+    "keywords": [
+      "music",
+      "performance",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Neurobiology",
+    "keywords": [
+      "neurobiology",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Pharmacy",
+    "keywords": [
+      "pharmacy",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Philosophy",
+    "keywords": [
+      "philosophy",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Physics",
+    "keywords": [
+      "physics",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Polish",
+    "keywords": [
+      "polish",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Political Science",
+    "keywords": [
+      "political",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Portuguese",
+    "keywords": [
+      "portuguese",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Psychology",
+    "keywords": [
+      "psychology",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Religious Studies",
+    "keywords": [
+      "religious",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Russian",
+    "keywords": [
+      "russian",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Scandinavian Studies",
+    "keywords": [
+      "scandinavian",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Social Welfare",
+    "keywords": [
+      "social",
+      "welfare",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Social Work CSWE Accredited",
+    "keywords": [
+      "social",
+      "work",
+      "cswe",
+      "accredited",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Sociology",
+    "keywords": [
+      "sociology",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Spanish",
+    "keywords": [
+      "spanish",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Statistics",
+    "keywords": [
+      "statistics",
+      "stats",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Zoology",
+    "keywords": [
+      "zoology",
+      "l&s"
+    ]
+  },
+  {
+    "name": "Nursing",
+    "keywords": [
+      "nursing",
+      "nur"
+    ]
+  },
+  {
+    "name": "Pharmaceutical Sciences",
+    "keywords": [
+      "pharmaceutical",
+      "phm"
+    ]
+  },
+  {
+    "name": "Pharmacology and Toxicology",
+    "keywords": [
+      "pharmacology",
+      "toxicology",
+      "phm"
+    ]
+  }
+]
